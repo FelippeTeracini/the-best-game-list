@@ -1,8 +1,8 @@
-GameList: Your Comprehensive Gaming Tracker
+TheBestGameList: Your Comprehensive Gaming Tracker
 
-Welcome to GameList, your one-stop destination for tracking and managing your gaming adventures!
+Welcome to TheBestGameList, your one-stop destination for tracking and managing your gaming adventures!
 
-Inspired by popular anime and manga tracking sites, GameList provides a user-friendly platform for gamers to catalog their experiences, discover new titles, and connect with a community of fellow enthusiasts.
+Inspired by popular anime and manga tracking sites, TheBestGameList provides a user-friendly platform for gamers to catalog their experiences, discover new titles, and connect with a community of fellow enthusiasts.
 
 ## Features:
 
@@ -23,24 +23,24 @@ Create a game library: Add games you've played, are currently playing, or plan t
 
 ## Benefits:
 
-* Keep track of your gaming journey:
-* Never forget which games you've played and what you thought of them.
-* See how your taste in games has evolved over time.
-* Identify trends in your gaming habits.
-* Discover hidden gems:
-* Find new games based on recommendations from other users and community discussions.
-* Explore genres you might not have considered before.
-* Expand your gaming horizons.
-* Connect with other gamers:
-* Share your passion for games with a like-minded community.
-* Discuss your favorite titles and get recommendations from others.
-* Make new friends who share your interests.
+1. Keep track of your gaming journey:
+2. Never forget which games you've played and what you thought of them.
+3. See how your taste in games has evolved over time.
+4. Identify trends in your gaming habits.
+5. Discover hidden gems:
+6. Find new games based on recommendations from other users and community discussions.
+7. Explore genres you might not have considered before.
+8. Expand your gaming horizons.
+9. Connect with other gamers:
+10. Share your passion for games with a like-minded community.
+11. Discuss your favorite titles and get recommendations from others.
+12. Make new friends who share your interests.
 
 ## Getting Started:
 
-* Create a free account on GameList.
-* Start adding games to your library.
-* Explore the different features and customize your profile.
-* Join the community discussions and connect with other gamers.
+1. Create a free account on GameList.
+2. Start adding games to your library.
+3. Explore the different features and customize your profile.
+4. Join the community discussions and connect with other gamers.
 
 We're constantly working on improving GameList and adding new features. Let us know what you think and how we can make your gaming experience even better!
